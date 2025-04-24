@@ -1,4 +1,4 @@
-- I'm AuF3, simply as my username suggests.
+- I'm AuF3, simply as my username as well as the icon suggests.
 - From that name, you can figure out which area I expert(ed) in.
 - New to GitHub, hopefully I may be able to make a full transition.
 
