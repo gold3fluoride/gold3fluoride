@@ -1,6 +1,7 @@
 - I'm AuF3, simply as my username as well as the icon suggests.
-- From that name, you can figure out which area I expert(ed) in.
-- New to GitHub, hopefully I may be able to make a full transition.
+
+
+Real name: Xinzhe Wang @ USTC.
 
 <!---
 gold3fluoride/gold3fluoride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
